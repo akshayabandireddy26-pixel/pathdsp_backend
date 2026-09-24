@@ -2,5 +2,5 @@ streamlit
 pandas
 numpy
 torch
-scikiy-learn
+scikiy-learn==1.3.2
 joblib
